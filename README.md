@@ -55,8 +55,17 @@ Extended the YACC program to print the output of the input program and display t
 
 *Task-specific Output:*
 
-**Lexical Analysis**: The list of valid tokens in the format: line number lexeme token type.<br>
-**Syntax Analysis**: If the input program has no syntax errors, valid input is displayed. Otherwise, syntax error is displayed.<br>
-**Semantic Analysis**: The AST is displayed. If there are semantic errors, appropriate error messages are displayed such as undeclared variable, multiple declarations of a variable, and type mismatches.<br>
-**Code Generation**: The generated three-address code is displayed.<br>
-**Final Stage**: The output of the given input program and the symbol table are displayed in the format: Variable Type Value.<br>
+**Lexical Analysis**: The list of valid tokens in the format: line number lexeme token type.<br><br>
+**Syntax Analysis**: If the input program has no syntax errors, valid input is displayed. Otherwise, syntax error is displayed.<br><br>
+**Semantic Analysis**: The AST is displayed. If there are semantic errors, appropriate error messages are displayed such as undeclared variable, multiple declarations of a variable, and type mismatches.<br><br>
+**Code Generation**: The generated three-address code is displayed.<br><br>
+**Final Stage**: The output of the given input program and the symbol table are displayed in the format: Variable Type Value.<br><br>
+
+## Implementation & Execution
+
+Navigate to the Task's directory. Then open the terminal in that directory and type in the following command:
+```sh
+bash run.sh
+```
+
+
