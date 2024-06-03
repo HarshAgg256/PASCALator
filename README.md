@@ -21,11 +21,11 @@ The project is divided into several phases: Lexical Analysis, Syntax Analysis, S
 ### Language Specification
 The language specification includes the definition and syntax for:
 
-**Keywords**: A list of reserved words in PASCAL (e.g., program, var, integer, real, boolean, char, if, else, while, for, do, array, begin, end, read, write).<br>
-**Variables/Identifiers**: Rules for variable names and their declarations.<br>
-**Operators**: Supported arithmetic, relational, and boolean operators.<br>
-**Statements**: Including read/write statements, assignment statements, blocks of statements, conditional statements, and looping statements.<br>
-**Program Structure**: The overall structure of a PASCAL program, including the program keyword, variable declarations, and the main program block.<br>
+**Keywords**: A list of reserved words in PASCAL (e.g., program, var, integer, real, boolean, char, if, else, while, for, do, array, begin, end, read, write).<br><br>
+**Variables/Identifiers**: Rules for variable names and their declarations.<br><br>
+**Operators**: Supported arithmetic, relational, and boolean operators.<br><br>
+**Statements**: Including read/write statements, assignment statements, blocks of statements, conditional statements, and looping statements.<br><br>
+**Program Structure**: The overall structure of a PASCAL program, including the program keyword, variable declarations, and the main program block.<br><br>
 
 ### Tasks
 
